@@ -45,7 +45,7 @@ class Pyramid extends Shape {
     }
 }
 
-public class Mai {
+public class Exercise_03 {
     public static void main(String[] args) {
         Ball ball = new Ball(5.0);
         Cylinder cylinder = new Cylinder(3.0, 10.0);

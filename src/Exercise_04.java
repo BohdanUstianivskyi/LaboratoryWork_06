@@ -36,7 +36,7 @@ class Truck extends Car {
     }
 }
 
-public class Main_04 {
+public class Exercise_04 {
     public static void main(String[] args) {
         Sedan sedan = new Sedan("Mazda 6", "Black", 180);
         Truck truck = new Truck("Ford F-150", "White", 160);

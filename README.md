@@ -53,3 +53,13 @@ Open functions of the class: data input, data output, calculation of the total n
 
 Add two fields to the newly created class (which ones exactly? - come up with your own), as well as redefine the function of displaying class data on the screen.
 
+# Requirements.
+To run this project, you must have the following installed on your computer: IntelliJ IDEA Community Edition.
+
+# Build Instructions
+Clone the repository to your local machine using <br>
+git clone
+
+# Results
+
+Task_1: <br>

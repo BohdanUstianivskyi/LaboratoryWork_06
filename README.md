@@ -87,4 +87,5 @@ Task_6: <br>
 ![6](https://github.com/BohdanUstianivskyi/LaboratoryWork_06/assets/132481363/dfcf1f7c-5a8e-4567-b854-68fe6d8d2117)
 
 #Support
+
 If you encounter any issues while running the project, please reach out to us at bohdan.ustianivskyi.tr.2021@lpnu.ua
